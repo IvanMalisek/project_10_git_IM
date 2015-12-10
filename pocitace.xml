@@ -20,7 +20,6 @@
 	  <editor>wordpad</editor>
         </textove_editory>
       <webove_prehliadace>
-        <prehliadac>explorer</prehliadac>
         <prehliadac>firefox</prehliadac>
 		<prehliadac>Chrome</prehliadac>
       </webove_prehliadace>
@@ -32,8 +31,6 @@
       </hardware>
       <distribucie>
         <distro>UBUNTU</distro>
-        <distro>KUBTUNU</distro>
-        <distro>FEDORA</distro>
       </distribucie>
       <spravca_suborov>
         <meno>dolphin</meno>
