@@ -23,6 +23,7 @@
         </textove_editory>
       <webove_prehliadace>
         <prehliadac>explorer</prehliadac>
+        <prehliadac>Opera</prehliadac>
         <prehliadac>firefox</prehliadac>
 		<prehliadac>Chrome</prehliadac>
       </webove_prehliadace>
