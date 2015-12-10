@@ -16,8 +16,6 @@
 	<textove_editory>
 	  <editor>notepad</editor>
 	  <editor>wordpad</editor>
-	  <editor>notepad</editor>
-	  <editor>wordpad</editor>
         </textove_editory>
       <webove_prehliadace>
         <prehliadac>firefox</prehliadac>
