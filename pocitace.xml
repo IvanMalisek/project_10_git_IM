@@ -36,6 +36,8 @@
         <distro>UBUNTU</distro>
         <distro>KUBTUNU</distro>
         <distro>FEDORA</distro>
+        <distro>LINUX MINT</distro>
+        <distro>DEBIAN</distro>
       </distribucie>
       <spravca_suborov>
         <meno>dolphin</meno>
