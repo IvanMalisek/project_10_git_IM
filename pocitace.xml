@@ -16,8 +16,6 @@
 	<textove_editory>
 	  <editor>notepad</editor>
 	  <editor>wordpad</editor>
-	  <editor>notepad</editor>
-	  <editor>wordpad</editor>
         </textove_editory>
       <webove_prehliadace>
         <prehliadac>explorer</prehliadac>
@@ -47,24 +45,4 @@
 	<prehliadac>chrome</prehliadac>
       </webove_prehliadace>
     </linux>
-    <macintosh>
-      <hardware>
-	<suborove_systemy>MFS</suborove_systemy>
-	<suborove_systemy>HFS</suborove_systemy>
-      </hardware>
-      <verzie>
-	<ver>Leopard</ver>
-	<ver>Snow leopard</ver>
-      </verzie>
-      <spravca_suborov>
-      </spravca_suborov>
-      <textove_editory>
-	<editor>aquamacs</editor>
-	<editor>Textedit</editor>
-      </textove_editory>
-      <webove_prehliadace>
-	<prehliadac>safari</prehliadac>
-	
-      </webove_prehliadace>
-    </macintosh>
   </operacne_systemy>
